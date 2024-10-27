@@ -1,4 +1,4 @@
-<h1 align="center">Assalamu alaikum ❤, I'm Md. Imran Hasan</h1>
+<h1 align="center">Assalamu alaikum, I'm Md. Imran Hasan</h1>
 <h3 align="center">I am a professional Machine Learning Engineer and Data Science Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imran4070ti&label=Profile%20views&color=0e75b6&style=flat" alt="imran4070ti" /> </p>
